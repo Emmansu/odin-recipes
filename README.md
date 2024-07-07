@@ -1,3 +1,3 @@
-This is a project for different recipes.
-The project will demonstrate all the things I have learned regarding HTML.
-From the use of tags, creating lists, to hyperlinking and using images.
+This is a project to show the different things I learned.
+Once finished, this project will demonstrate the use of tags, creating unordered and ordered lists, hyperlinks and using images in an HTML code.
+It will also be a review of the basics of setting up git repositories.
