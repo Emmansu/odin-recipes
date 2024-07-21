@@ -1,0 +1,61 @@
+.title {
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+font-size: 48px;
+color: black;
+}
+
+div {
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
+
+a{
+    color: inherit;
+}
+
+a:hover{
+    color:green;
+}
+
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+    align-content: center;
+    align-items: center;
+    padding: 2px;
+    margin: 2px;
+}
+
+.home {
+    display: inline;
+    margin-left: 15px ;
+    margin-right: 20px;
+}
+
+.flex-container {
+    margin-top: 25px;
+    background-color: white;
+    align-content: center;
+    align-items: center;
+    padding: 2px;
+    display: inline-flex;
+    font-style: italic ;
+    color: blue;
+    font-size: 18px; 
+}
+
+p:hover{
+color: green;
+}
+
+img {
+    border: 1px solid black;
+}
+
+.spag {
+margin-left: 300px;
+
+}
